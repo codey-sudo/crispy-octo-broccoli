@@ -1,0 +1,18 @@
+{
+  "prev" : "Dates précédentes",
+  "next" : "Suivant",
+  "cart" : "Panier",
+  "back" : "Retour",
+  "search" : "Rechercher",
+  "scroll" : "Faire défiler",
+  "hours" : "Horaires d'ouverture",
+  "mon" : "Lun",
+  "tue" : "Mar",
+  "wed" : "Mer",
+  "thu" : "Jeu",
+  "fri" : "Ven",
+  "sat" : "Sam",
+  "sun" : "Dim",
+  "signIn" : "Se connecter",
+  "myAccount" : "Mon Compte"
+}

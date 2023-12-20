@@ -1,0 +1,18 @@
+{
+  "prev" : "Anterior",
+  "next" : "Siguiente",
+  "cart" : "Carrito",
+  "back" : "Atrás",
+  "search" : "Buscar",
+  "scroll" : "Desplazar",
+  "hours" : "Horario",
+  "mon" : "L",
+  "tue" : "M",
+  "wed" : "X",
+  "thu" : "Jueves",
+  "fri" : "V",
+  "sat" : "S",
+  "sun" : "D",
+  "signIn" : "Iniciar sesión",
+  "myAccount" : "Mi Cuenta"
+}

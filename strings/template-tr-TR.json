@@ -1,0 +1,18 @@
+{
+  "prev" : "Önceki",
+  "next" : "Sonraki",
+  "cart" : "Sepet",
+  "back" : "Geri",
+  "search" : "Arayın",
+  "scroll" : "Kaydırın",
+  "hours" : "Saat",
+  "mon" : "Pzt",
+  "tue" : "Sal",
+  "wed" : "Çar",
+  "thu" : "Per",
+  "fri" : "Cum",
+  "sat" : "Cmt",
+  "sun" : "Paz",
+  "signIn" : "Giriş Yapın",
+  "myAccount" : "Hesabım"
+}

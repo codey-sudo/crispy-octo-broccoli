@@ -1,0 +1,33 @@
+{
+  "template" : {
+    "Primary Navigation" : "",
+    "Secondary Navigation" : "",
+    "Footer Navigation" : "",
+    "Default" : ""
+  },
+  "album" : {
+    "Album" : "",
+    "New Album" : "",
+    "Add Track" : ""
+  },
+  "blog" : {
+    "Blog" : "",
+    "New Blog" : "",
+    "Add Post" : ""
+  },
+  "events" : {
+    "Events" : "",
+    "New Events" : "",
+    "Add Event" : ""
+  },
+  "folders" : {
+    "Folder" : "",
+    "New Folder" : "",
+    "Add Page" : ""
+  },
+  "index" : {
+    "Index" : "",
+    "New Index" : "",
+    "Add Section" : ""
+  }
+}

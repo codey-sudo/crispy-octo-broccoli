@@ -1,0 +1,33 @@
+{
+  "template" : {
+    "Primary Navigation" : "Birincil Gezinme Menüsü",
+    "Secondary Navigation" : "İkincil Gezinme Menüsü",
+    "Footer Navigation" : "Alt Bilgi Gezinme Menüsü",
+    "Default" : "Varsayılan"
+  },
+  "album" : {
+    "Album" : "Albüm",
+    "New Album" : "Yeni Albüm",
+    "Add Track" : "Parça Ekleyin"
+  },
+  "blog" : {
+    "Blog" : "Blog",
+    "New Blog" : "Yeni Blog",
+    "Add Post" : "Paylaşım Ekleyin"
+  },
+  "events" : {
+    "Events" : "Etkinlikler",
+    "New Events" : "Yeni Etkinlikler",
+    "Add Event" : "Etkinlik Ekleyin"
+  },
+  "folders" : {
+    "Folder" : "Klasör",
+    "New Folder" : "Yeni Klasör",
+    "Add Page" : "Sayfa Ekleyin"
+  },
+  "index" : {
+    "Index" : "Dizin",
+    "New Index" : "Yeni Dizin",
+    "Add Section" : "Bölüm Ekleyin"
+  }
+}
