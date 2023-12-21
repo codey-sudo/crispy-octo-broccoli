@@ -127,9 +127,6 @@
             </div>
             <div data-nc-container="bottom-right">
 
-              <nav class="Header-nav Header-nav--secondary" data-nc-element="secondary-nav" data-content-field="navigation">
-                <squarespace:navigation navigationId="secondaryNavigation" template="header-nav" />
-              </nav>
 
             </div>
           </div>
@@ -166,9 +163,10 @@
       </div>
 
       {@|apply footer.block}
-
+      
     </div>
 
+    <squarespace:script src="site-bundle.js" combo="false" />
     <squarespace:script src="site-bundle.js" combo="false" />
 
     {squarespace-footers}
